@@ -8,7 +8,7 @@ I am a recent Computer Science and Game Design graduate.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [syafaatsaat@gmail.com](mailto:syafaatsaat@gmail.com)
-* 🧠  I'm learning HTML5, JavaScript, CSS
+* 🧠  I'm learning Data Engineering
 
 ### Skills
 
