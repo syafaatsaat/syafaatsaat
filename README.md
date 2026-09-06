@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Graduate
 -------------------------
 
-I am a recent Computer Science and Game Design graduate.
+I am a Computer Science and Game Design graduate.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [syafaatsaat@gmail.com](mailto:syafaatsaat@gmail.com)
